@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { P } from "../constants/theme.js";
 import { MAP_IMG } from "../assets.js";
-import { Card } from "../components/primitives.jsx";
+import { Card, SL, SH, Nana } from "../components/primitives.jsx";
 import { WORLD_CUISINES, CONTINENT_ZONES, CS_INFO } from "../data/worldCuisines.js";
 
 export function WorldCuisineScreen({ onBack, onCook }) {
