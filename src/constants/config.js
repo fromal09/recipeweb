@@ -22,7 +22,6 @@ export const TUTORIAL = [
   { text: "Those recipe books on the shelf hold everything you've saved. The more you cook, the richer the collection grows.", focus: "books" },
   { text: "That map on the wall will take you anywhere in the world. Every cuisine has a story worth tasting.", focus: "map" },
   { text: "The spice rack is where the real magic lives. Don't be a stranger to it.", focus: "spices" },
-  { text: "And the window — keep an eye on it. It'll tell you what the season is offering.", focus: "window" },
   { text: "Now then. The kitchen is yours, dear. What shall we make today?", focus: null },
 ];
 
