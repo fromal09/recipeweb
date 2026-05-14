@@ -7,6 +7,7 @@ export const CS_INFO={
 };
 
 
+export const CONTINENT_ZONES = [
 
   {id:"northamerica", label:"The Americas",           emoji:"🌮", color:"#9B3B22",
    points:"27,310 142,310 142,351 133,382 106,408 78,408 55,392 27,335",
